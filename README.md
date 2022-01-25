@@ -12,7 +12,7 @@ How to get webfonts and css from fontawesome
 4. Click on scan button
 5. Click ok and wait for scan to finish
 > 
-![image](https://www.notziggy.xyz/dev/images/1raro.png)
+![image](https://www.notziggy.xyz/dev/images/9w29a.png)
 
 6. Now select option everything and hit ok
 > 
