@@ -26,7 +26,7 @@ How to get webfonts and css from fontawesome
 
 8. After that click Open Output Folder
 >
-![image](https://www.notziggy.xyz/dev/images/k4u4v.png)
+![image](https://www.notziggy.xyz/dev/images/vifdk.png)
 
 9. Now open folder called releases
 > 
